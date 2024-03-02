@@ -7,7 +7,7 @@ import re
 ## CHANGE THE LOGICAL EXPRESSION BELOW, JUST USE: 'AND' 'OR' 'NOT'.
 ## USE ONLY LETTERS TO NAME LOGIC GATES
 
-expression = "A and B and C or (not(A and B) and C and D)"
+expression = "A and B and C ou (not(A and B) and C and D)"
 
 ## NÃO ALTERAR A PARTIR DAQUI
 ## DO NOT CHANGE FROM HERE
